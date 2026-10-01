@@ -1,0 +1,14 @@
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\bin\Debug\net10.0\Modulo1.exe
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\bin\Debug\net10.0\Modulo1.deps.json
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\bin\Debug\net10.0\Modulo1.runtimeconfig.json
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\bin\Debug\net10.0\Modulo1.dll
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\bin\Debug\net10.0\Modulo1.pdb
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\obj\Debug\net10.0\Modulo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\obj\Debug\net10.0\Modulo1.AssemblyInfoInputs.cache
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\obj\Debug\net10.0\Modulo1.AssemblyInfo.cs
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\obj\Debug\net10.0\Modulo1.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\obj\Debug\net10.0\Modulo1.dll
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\obj\Debug\net10.0\refint\Modulo1.dll
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\obj\Debug\net10.0\Modulo1.pdb
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\obj\Debug\net10.0\Modulo1.genruntimeconfig.cache
+C:\Users\Nahuel\Documents\Escuela\POO\TP Integrador\Modulo1\obj\Debug\net10.0\ref\Modulo1.dll
